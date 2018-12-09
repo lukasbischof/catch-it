@@ -1,3 +1,3 @@
 # Catch it
 
-My first game developed using SpriteKit
+A small and simple game where you have to catch stuff, made with SpriteKit.
